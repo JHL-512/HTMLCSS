@@ -5,6 +5,10 @@
   font-style: normal;
 }
 
+h1{
+    color: blue;
+}
+
 body{
     font-family: "Noto Sans TC", sans-serif;
     font-weight: 500;
